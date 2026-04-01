@@ -18,9 +18,7 @@ Full-Stack Web Developer/Software Engineer | Python, Java, ReactJS, PostgreSQL, 
 
 ## 🛠️ Tech Stack
 
-| **Frontend** | **Backend** | **Database** | **Languages** | **AI/ML** | **Tools** |
-|--------------|-------------|--------------|---------------|-----------|-----------|
-| ReactJS      | Node.js     | PostgreSQL   | Python, Java  | TensorFlow, PyTorch | Git, Docker, AWS |
-
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
